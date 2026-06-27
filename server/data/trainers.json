@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Alex Johnson",   "role": "Personal Trainer",   "exp": "8 years",  "specialty": "Strength & Conditioning", "rating": 4.9, "clients": 120 },
+  { "id": 2, "name": "Sarah Williams", "role": "Yoga Instructor",    "exp": "6 years",  "specialty": "Hatha & Vinyasa Yoga",    "rating": 4.8, "clients": 95  },
+  { "id": 3, "name": "Mike Chen",      "role": "Boxing Coach",       "exp": "10 years", "specialty": "Combat & HIIT",           "rating": 5.0, "clients": 140 },
+  { "id": 4, "name": "Emma Davis",     "role": "Cardio Specialist",  "exp": "5 years",  "specialty": "Endurance & Fat Loss",    "rating": 4.7, "clients": 88  }
+]

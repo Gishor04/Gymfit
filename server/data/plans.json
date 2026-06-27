@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1, "name": "Basic", "price": 29, "popular": false,
+    "features": ["Gym Access (Mon–Fri)", "Locker Room", "2 Group Classes/month", "Basic Equipment", "App Access"]
+  },
+  {
+    "id": 2, "name": "Pro", "price": 59, "popular": true,
+    "features": ["Unlimited Gym Access", "All Group Classes", "2 Personal Sessions/month", "Nutrition Guide", "App Access", "Guest Pass (2/month)"]
+  },
+  {
+    "id": 3, "name": "Elite", "price": 99, "popular": false,
+    "features": ["Everything in Pro", "Unlimited Personal Training", "Meal Planning", "Priority Booking", "Unlimited Guest Passes", "Recovery Room Access"]
+  }
+]

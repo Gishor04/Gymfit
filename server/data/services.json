@@ -1,0 +1,8 @@
+[
+  { "id": 1, "icon": "🏋️", "title": "Personal Training",  "desc": "One-on-one sessions with certified trainers tailored to your goals.",  "duration": "60 min" },
+  { "id": 2, "icon": "🏃", "title": "Cardio Training",    "desc": "Boost stamina and heart health with expert-guided cardio programs.",   "duration": "45 min" },
+  { "id": 3, "icon": "🧘", "title": "Yoga Classes",       "desc": "Relax your body and mind with daily yoga and meditation sessions.",    "duration": "60 min" },
+  { "id": 4, "icon": "💪", "title": "Weight Training",    "desc": "Build strength and muscle with structured weight training plans.",     "duration": "75 min" },
+  { "id": 5, "icon": "🥊", "title": "Boxing",             "desc": "High-energy boxing classes for fitness and stress relief.",           "duration": "60 min" },
+  { "id": 6, "icon": "🤸", "title": "Group Classes",      "desc": "Fun and motivating group workout sessions for all fitness levels.",   "duration": "50 min" }
+]
